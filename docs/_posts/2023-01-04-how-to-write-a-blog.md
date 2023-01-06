@@ -12,7 +12,7 @@ I hope you like it!
 ## Compiling and running with only a JDK
 
 ### Create a classes folder
-
+Test here
 ```
 fun maxArea(a: IntArray): Int {
 
